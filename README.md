@@ -1,3 +1,3 @@
 # Bootstrap-practice-repo
 
-## I have created webpage page using bootstrap.
+## I have created webpage using bootstrap.
